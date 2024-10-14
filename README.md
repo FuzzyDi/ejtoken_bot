@@ -1,0 +1,1 @@
+ejtoken_bot getinfo
